@@ -43,7 +43,7 @@ The organization will contain the following repositories:
 
 ### Contact Us
 Feel free to reach out to the project maintainers if you have any questions or want to contribute:
-- Project Lead: Prithwijit Ghosh
+- Project Lead: Fauzia Khatun
 - Core Development Team: [Team Name]
 
 Stay updated with our progress and contribute to making web applications more secure!
