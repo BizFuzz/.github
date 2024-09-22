@@ -1,4 +1,4 @@
-# BizzFuzz GitHub Organization - README
+# BizzFuzz 
 
 ## Welcome to BizzFuzz
 
