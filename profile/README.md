@@ -57,6 +57,4 @@ This is the official GitHub organization for our final year project titled **"Bo
   - **Mobile App Development**: Expands the platform's reach with a mobile application.
   - **Multiple Database Integration**: Ensures comprehensive coverage of book resources.
 
----
 
-This format should align with your original style while focusing on the features of your book recommendation system.
