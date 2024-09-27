@@ -1,7 +1,7 @@
 # BizzFuzz 
 
 ## Welcome to BizzFuzz
-![BizzFuzz Banner]()
+![BizzFuzz Banner](https://github.com/BizFuzz/.github/blob/main/profile/Cream%20Black%20Minimalist%20Art%20Deco%20Wedding%20Banner.png)
 
 This is the official GitHub organization for our final year college project titled **"Creating a Comprehensive Web Application Fuzzer"** (Problem Statement #1750). Our goal is to develop a versatile web application fuzzer that automates the discovery and testing of vulnerabilities across various components of web applications, such as directories, API endpoints, URL parameters, and subdomains.
 
